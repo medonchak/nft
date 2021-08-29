@@ -1,0 +1,83 @@
+.index{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px solid silver;
+    height: 80px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+a{
+  text-decoration: none;
+  color: red;
+  margin: 5px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  color: #23262F;
+}
+.logoblock{
+   width: 20%;
+   border-right: 2px solid silver;
+   margin: 10px;
+}
+.logoblock img{
+    padding: 10px;
+    padding-right: 90%;
+    height: 40px;
+}
+.img{
+    margin: 35px;
+}
+.link{
+
+    display: flex;
+    width: 40%;
+}
+.itemLink{
+    margin: 30px;
+}
+.search{
+    height: 40px;
+    border-radius:  10px;
+    border: 0.5px solid silver;
+  
+}
+.searchblock{
+    margin-top:25px;
+    margin-right: 12px;
+    width: 8%;
+}
+.upload button{
+    margin: 30px;
+    height: 40px;
+    width: 150px;
+    min-width: 70px;
+    border-radius: 10px ;
+    border: 0.5px dashed blue;
+    background-color: white;
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #3772FF;
+}
+.connect button{
+    margin: 30px;
+    width: 200px;
+    height: 40px;
+    min-width: 70px;
+    border-radius: 10px ;
+    border: 0.5px solid silver;
+    background-color: #2AAB57;
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 12px;
+}

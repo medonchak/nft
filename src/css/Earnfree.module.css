@@ -1,0 +1,60 @@
+.Earnfree{
+    display:flex ;
+    justify-content: center;
+    margin-top: 20px;
+}
+.txt1{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #777E91;
+}
+.txt2{
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 64px;
+    letter-spacing: -0.02em;
+    color: #23262F;
+}
+.txt3{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #777E91;
+}
+.but1{
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+    padding: 12px;
+    margin: 10px;
+    text-transform: uppercase;
+    color: #FCFCFD;
+    background: #3772FF;
+    border-radius: 10px;
+    border: 1px solid #3772FF;
+}
+.but2{
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #23262F;
+    border-radius: 10px;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background: white;
+    border: 1px solid silver;
+}

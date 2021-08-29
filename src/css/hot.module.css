@@ -1,0 +1,94 @@
+.hotIndex{
+
+    width: 30%;
+
+}
+.activimg img{
+    width: 352px;
+    height: 264px;
+}
+.imgZap{
+    display: flex;
+    justify-content: center
+
+
+}
+.imgZap img{
+    width: 110px;
+    height: 80px;
+    margin: 5px;
+    
+}
+.text{
+    margin-left: 12%;
+    text-align: left;
+    font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+
+color: #000000;
+
+}   
+.text p a{
+    margin-left: 30%;
+    border: 1px solid silver;
+    padding: 7px;
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #10161A;
+    border-radius: 5px;
+}
+.text p q{
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #212535;
+}
+.text a{
+ 
+    font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+
+/* Neutrals/2 */
+
+color: #23262F;
+}
+.conteiner{
+    display: flex;
+    justify-content: center;
+}
+.text p img{
+    width: 34px;
+    margin-right: 20px;
+}
+.logoText{
+    margin: 70px;
+    margin-left: 10%;
+    text-align: start;
+    font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 48px;
+/* identical to box height, or 120% */
+
+letter-spacing: -0.01em;
+
+/* Neutrals/2 */
+
+color: #23262F;
+}

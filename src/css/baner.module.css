@@ -1,0 +1,160 @@
+.index{
+    display: flex;
+    margin: 35px;
+}
+.img img{
+    width: 80%;
+    border-radius: 15px;
+}
+.opis{
+    display: flex;
+}
+
+.but1 button{
+    margin: 5px;
+    width: 80%;
+    padding: 12px 24px;
+    height: 48px;
+    color: #f8f8f8;
+    top: 602px;
+    background: #3772FF;
+    border-radius: 12px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    border: none;
+}
+.but2 button{
+    width: 80%;
+    padding: 12px 24px;
+    height: 48px;
+    top: 602px;
+    color: #3772FF;
+    background: #f8f8f8;
+    border-radius: 12px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    border: 1px solid silver;
+}
+.but2 button:hover{
+    border: 1.5px solid #3772FF;
+}
+.but1 button:hover{
+    border: 1.5px solid #3772FF;
+    background-color: #f8f8f8;
+    color: #3772FF;
+}
+.pagina{
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+}
+.q{
+
+    padding: 10px;
+    margin: 5px;
+}
+.q:hover{
+    border: 1px solid silver;
+    border-radius: 5px;
+   
+}
+.indexOpis{
+    width: 30%;
+}
+.globaltext{
+    font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 60px;
+/* or 94% */
+
+text-align: center;
+letter-spacing: -0.02em;
+
+/* #212535 */
+
+color: #212535;
+}
+.textopis{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+text-align: center;
+
+/* Grey #7E8A9F */
+
+color: #7E8A9F;
+}
+.textElement{
+    font-family: DM Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+text-align: center;
+
+color: #7E8A9F; 
+}
+.kilkist{
+    font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 56px;
+/* identical to box height, or 117% */
+
+text-align: center;
+letter-spacing: -0.02em;
+
+/* #10161A */
+
+color: #10161A;
+}
+.price{
+    font-family: DM Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+text-align: center;
+
+color: #0F73EF;
+}
+.noName{
+    font-family: DM Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+text-align: center;
+
+color: #7E8A9F;
+}
+.time{
+    font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height, or 125% */
+
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Neutrals/1 */
+
+color: #141416;
+}

@@ -1,0 +1,55 @@
+.index{
+
+    margin-top: 60px;
+    border-bottom: 2px solid silver;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.h1{
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 12px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #0F73EF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 8px 0px;
+}
+.h2{
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    letter-spacing: -0.01em;
+    color: #000000;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 8px 0px;
+}   
+.buttonText{
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #0F73EF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 12px;
+    border-radius:10px;
+    height: 40px;
+    border: 0.5px solid silver;
+    background-color: aliceblue;
+    margin-bottom: 30px;
+}
